@@ -68,3 +68,8 @@ h2 {
     width: 100px;
     border-radius: 10px;
 }
+
+.links {
+    text-decoration: none;
+    color: black;
+}
